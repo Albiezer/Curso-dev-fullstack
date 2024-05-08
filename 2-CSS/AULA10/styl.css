@@ -1,0 +1,45 @@
+body{
+    background-color: #ebe5e5;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(56, 52, 52, 0.767);
+}
+
+b{
+    color:blue;
+}
+
+.foto_principal {
+    box-shadow: 0px 0px 10px #8d8686;
+    width: 150px;
+    border: 3px ridge #dfdfdf;
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-left: 30px;
+    padding: 10px;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(151, 144, 144);
+    letter-spacing: -1;
+}
+
+.container{
+    width: 1000px;
+}
+
+.quadrado{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 0 auto;
+    border-block: 8px solid red;
+    border-radius: 8px 10px 20px 50px;
+}
+
